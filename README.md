@@ -1,1 +1,2 @@
-# Programa usando estrutura encadeada para calcular a idade e verificar se a pessoa é uma criança, um adolescente, adulto ou idoso.
+# Programa Idade!
+Programa feito com estrutura encadeada feito para determinar se a pessoa é uma criança, adolescente, adulto ou idoso.
